@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/AdaptadorFecha.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/DecoradorPelicula.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/Fecha.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/servlets/LoginServlet.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/EstadisticasPeliculas.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/estilos/checking.js</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/EstrategiaBusquedaPorGenero.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/DatabaseManager.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaObservador.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/panelAdmin.jsp</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaComponente.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaBebesDecorator.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/servlets/GestionComentario.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/ContextoBusqueda.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/Pelicula.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaAdultosDecorator.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/servlets/InformeServlet.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/estilos/login.css</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/EstrategiaBusqueda.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaNinosDecorator.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/Comentario.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaObservable.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/buscarPeliculas.jsp</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/FechaUS.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/servlets/CrearUsuario.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/servlets/GestionPelicula.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/estilos/login.js</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/Usuario.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/login.jsp</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/indexDetallado.jsp</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/gestionPeliculas.jsp</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/web/index.jsp</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/PeliculaAdolescentesDecorator.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/EstrategiaBusquedaPorNombre.java</file>
+            <file>file:/C:/Java/Java_Uah/PlataformaContenidoMultimedia/src/java/com/example/model/EstrategiaBusquedaPorNacionalidad.java</file>
+        </group>
+    </open-files>
+</project-private>
